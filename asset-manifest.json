@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/rfClassBasedComponentsRedux/static/css/main.b8f3c96a.chunk.css",
+    "main.js": "/rfClassBasedComponentsRedux/static/js/main.7a742e4b.chunk.js",
+    "main.js.map": "/rfClassBasedComponentsRedux/static/js/main.7a742e4b.chunk.js.map",
+    "runtime-main.js": "/rfClassBasedComponentsRedux/static/js/runtime-main.edc06d2e.js",
+    "runtime-main.js.map": "/rfClassBasedComponentsRedux/static/js/runtime-main.edc06d2e.js.map",
+    "static/css/2.31461e4f.chunk.css": "/rfClassBasedComponentsRedux/static/css/2.31461e4f.chunk.css",
+    "static/js/2.66139356.chunk.js": "/rfClassBasedComponentsRedux/static/js/2.66139356.chunk.js",
+    "static/js/2.66139356.chunk.js.map": "/rfClassBasedComponentsRedux/static/js/2.66139356.chunk.js.map",
+    "index.html": "/rfClassBasedComponentsRedux/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/rfClassBasedComponentsRedux/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.b8f3c96a.chunk.css.map": "/rfClassBasedComponentsRedux/static/css/main.b8f3c96a.chunk.css.map",
+    "static/js/2.66139356.chunk.js.LICENSE.txt": "/rfClassBasedComponentsRedux/static/js/2.66139356.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/rfClassBasedComponentsRedux/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edc06d2e.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.66139356.chunk.js",
+    "static/css/main.b8f3c96a.chunk.css",
+    "static/js/main.7a742e4b.chunk.js"
+  ]
+}
